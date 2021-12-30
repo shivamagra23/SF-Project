@@ -1,1 +1,2 @@
 to fix the bug1
+2.Chnage on remote master by team mate for CR1 for pull operation
