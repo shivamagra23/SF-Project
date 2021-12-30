@@ -1,0 +1,10 @@
+Checkout - used to switch between version, branches, tags
+
+Undo -
+
+unstagged change
+commited change
+
+revert - safe undo commited change,commmit level only,recommended to use on public as well as private branches
+
+reset - unsafe undo commited change, file level as well as commit level,___private branches
